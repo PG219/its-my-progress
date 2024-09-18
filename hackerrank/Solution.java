@@ -20,10 +20,10 @@ public class Solution {
             System.out.println("Wierd");
 
         
-        } else if (N%2  == 0 && 2<=N<=5){
+        } else if (N%2  == 0 && 2<=N && N<=5){
             System.out.println("Not Wierd");
 
-        } else if (N%2  == 0 && 20>=N>=6){
+        } else if (N%2  == 0 && 20>=N && N>=6){
 
             System.out.println("Wierd");
 
