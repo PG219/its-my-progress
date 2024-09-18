@@ -8,7 +8,9 @@ public class palindrome {
         }
         
         
-        a = a.toLowerCase();
+        a = a.toLowerCase();git remote add origin https://github.com/pg6585/Its-my-progress.git
+        git branch -M main
+        git push -u origin main
         
         int n= a.length();
         
