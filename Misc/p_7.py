@@ -1,13 +1,13 @@
-'''
 
-mul=num
-for i in range(1,num):
-    mul = i*mul
+
+
+for i in range(0, 1):
+  mul = i*mul
 
 print(mul)
-'''
 
-num=int(input())
+
+
 
 
 

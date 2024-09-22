@@ -19,3 +19,4 @@ public class reverse {
     }
     
 }
+//Concept just like palindrome.
